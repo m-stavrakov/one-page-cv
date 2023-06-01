@@ -10,7 +10,7 @@ Instructions
 
 ## Rescources
 
-[Figma Document](https://www.figma.com/file/nluU8xLNXkiRFXOkgz7Nlk/Untitled?type=design&node-id=0%3A1&t=pM52QXZUzHNwUfSL-1)
-[PT Sans Font](https://fonts.google.com/specimen/PT+Sans)
+- [Figma Document](https://www.figma.com/file/nluU8xLNXkiRFXOkgz7Nlk/Untitled?type=design&node-id=0%3A1&t=pM52QXZUzHNwUfSL-1)
+- [PT Sans Font](https://fonts.google.com/specimen/PT+Sans)
 
 ![The exported figma design](wireframe.png "The design")
